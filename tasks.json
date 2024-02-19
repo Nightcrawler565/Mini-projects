@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Brush teeth",
+    "completed": true
+  },
+  {
+    "description": "Exercise",
+    "completed": false
+  },
+  {
+    "description": "Read books",
+    "completed": false
+  }
+]
